@@ -1,6 +1,6 @@
 [![slack.cloudfoundry.org](https://slack.cloudfoundry.org/badge.svg)](https://cloudfoundry.slack.com/messages/capi/)
 
-# Cloud Foundry CAPI Bosh Release
+# Cloud Foundry CAPI Bosh Release1
 
 This is the [bosh release](http://bosh.io/docs/release.html) for Cloud Foundry's [Cloud Controller API](https://github.com/cloudfoundry/cloud_controller_ng). 
 
